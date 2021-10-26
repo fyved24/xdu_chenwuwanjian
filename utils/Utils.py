@@ -24,11 +24,11 @@ UPLOAD_HEADER = {
 }
 
 DEFAULT_UPLOAD_MESSAGE = {
-    "geo_api_info": "{\"type\":\"complete\",\"position\":{\"Q\":34.121994628907,\"R\":108.83715983073,\"lng\":108.83716,\"lat\":34.121995},\"location_type\":\"html5\",\"message\":\"Get ipLocation failed.Get geolocation success.Convert Success.Get address success.\",\"accuracy\":65,\"isConverted\":true,\"status\":1,\"addressComponent\":{\"citycode\":\"029\",\"adcode\":\"610116\",\"businessAreas\":[],\"neighborhoodType\":\"\",\"neighborhood\":\"\",\"building\":\"\",\"buildingType\":\"\",\"street\":\"雷甘路\",\"streetNumber\":\"264号\",\"country\":\"中国\",\"province\":\"陕西省\",\"city\":\"西安市\",\"district\":\"长安区\",\"township\":\"兴隆街道\"},\"formattedAddress\":\"陕西省西安市长安区兴隆街道西安电子科技大学长安校区办公辅楼\",\"roads\":[],\"crosses\":[],\"pois\":[],\"info\":\"SUCCESS\"}",
-    "area": "陕西省 西安市 长安区",  # 地区
-    "city": "西安市",  # 城市
-    "province": "陕西省",  # 省份
-    "address": "陕西省西安市长安区兴隆街道西安电子科技大学长安校区行政辅楼",  # 实际地址
+    "geo_api_info": "{\"type\":\"complete\",\"position\":{\"Q\":23.322377387153,\"R\":113.54549072265701,\"lng\":113.545491,\"lat\":23.322377},\"location_type\":\"html5\",\"message\":\"Get geolocation success.Convert Success.Get address success.\",\"accuracy\":15,\"isConverted\":true,\"status\":1,\"addressComponent\":{\"citycode\":\"020\",\"adcode\":\"440112\",\"businessAreas\":[],\"neighborhoodType\":\"\",\"neighborhood\":\"\",\"building\":\"\",\"buildingType\":\"\",\"street\":\"峻岚街\",\"streetNumber\":\"7号\",\"country\":\"中国\",\"province\":\"广东省\",\"city\":\"广州市\",\"district\":\"黄埔区\",\"township\":\"九佛街道\"},\"formattedAddress\":\"广东省广州市黄埔区九佛街道开芯国际大酒店广州绿地城\",\"roads\":[],\"crosses\":[],\"pois\":[],\"info\":\"SUCCESS\"}",
+    "area": "广东省 广州市 黄埔区",  # 地区
+    "city": "广州市", # 城市
+    "province": "广东省",  # 省份
+    "address": "广东省广州市黄埔区九佛街道开芯国际大酒店广州绿地城",  # 实际地址
 }
 
 LOGIN_URL = "https://xxcapp.xidian.edu.cn/uc/wap/login/check"
